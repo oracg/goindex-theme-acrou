@@ -20,7 +20,7 @@ import "viewerjs/dist/viewer.css";
 import "@/assets/style/theme/register.scss";
 
 document.write(
-  `<script>var _hmt=_hmt||[];(function(){var hm=document.createElement("script");hm.src="https://hm.baidu.com/hm.js?6be1011f95a1bfcdb2179fe2ae6e58fe";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(hm,s)})();</script>`
+  `<script>var _hmt=_hmt||[];(function(){var hm=document.createElement("script");hm.src="https://hm.baidu.com/hm.js?922e15db454ca0d6e9069a711bbfd97e";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(hm,s)})();</script>`
 );
 Vue.config.productionTip = false;
 Vue.prototype.$cdnpath = cdnpath;
